@@ -4,7 +4,7 @@ This contains a node app for listing project ideas.
 
 ## How to install
 
-1. For the Github repo
+1. Fork the Github repo
 2. Git clone that repo to Cloud9
 2. run `npm install`
 3. run `nodemon index.js`
